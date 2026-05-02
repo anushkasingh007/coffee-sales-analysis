@@ -1,3 +1,4 @@
+
 # Coffee Sales Analysis
 
 # Project Overview
@@ -114,5 +115,7 @@ The dashboard enables management to monitor KPIs dynamically and supports faster
 <p align="center">
   <img width="800" alt="Dashboard Screenshot" src="https://github.com/user-attachments/assets/472c5558-94b7-43ba-9965-eae3739b8026" />
 </p>
+<p align="center"> <img width="1317" height="534" alt="Screenshot 2026-05-03 033203" src="https://github.com/user-attachments/assets/14f5d412-0e2b-4e32-b901-6c4b5fd5fa50" /></p>
+
 
 
